@@ -9,7 +9,7 @@ import sqlite3
 USERNAME  = "BooWendyBooBooBoo"
 # This is the bot's Username.
 # Accounts will lower karma will run into rate limits at first.
-PASSWORD  = "AyCaramba1"
+PASSWORD  = "AyDiosMio"
 # This is the bot's Password.
 # See my main github repo for alternatives
 USERAGENT = "Reply Boo to /u/djroomba322"
