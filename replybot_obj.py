@@ -32,7 +32,7 @@ class ReplyBot():
 		self.r = r
 		self.USERNAME = username
 
-		self.SUBREDDIT = "browns+nfl"
+		self.SUBREDDIT = "browns+nfl+boowendyboo"
 		#This is the sub or list of subs to scan for new posts. For a single sub, use "sub1". For multiple subreddits, use "sub1+sub2+sub3+..."
 		self.KEYWORDS = ["phrase 1", "phrase 2", "phrase 3", "phrase 4"]
 		#These are the words you are looking for
