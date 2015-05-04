@@ -34,9 +34,9 @@ class ReplyBot():
 
 		self.SUBREDDIT = "browns+nfl+boowendyboo"
 		#This is the sub or list of subs to scan for new posts. For a single sub, use "sub1". For multiple subreddits, use "sub1+sub2+sub3+..."
-		self.KEYWORDS = ["phrase 1", "phrase 2", "phrase 3", "phrase 4"]
+		self.KEYWORDS = ["djroomba322", "boo djroomba", "boo bot", "boo the man!"]
 		#These are the words you are looking for
-		self.KEYAUTHORS = ["djroomba322", "troop-the-loop"]
+		self.KEYAUTHORS = []
 		# These are the names of the authors you are looking for
 		# Any authors not on this list will not be replied to.
 		# Make empty to allow anybody
