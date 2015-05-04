@@ -19,7 +19,7 @@ SUBREDDIT = "browns+nfl+boowendyboo"
 # This is the sub or list of subs to scan for new posts. For a single sub, use "sub1". For multiple subreddits, use "sub1+sub2+sub3+..."
 KEYWORDS = ["djroomba322", "djroombasucks", "boo djroomba", "boo bot", "boo the man!"]
 # These are the words you are looking for
-KEYAUTHORS = ["djroomba322", "troop-the-loop"]
+KEYAUTHORS = []
 # These are the names of the authors you are looking for
 # Any authors not on this list will not be replied to.
 # Make empty to allow anybody
